@@ -8,7 +8,7 @@
   * @license MIT
   */
 App::import('Lib', 'Facebook.FacebookApi');
-class ApiComponent extends Object {
+class ApiComponent extends Component {
   
   /**
     * Allow direct access to the facebook API
